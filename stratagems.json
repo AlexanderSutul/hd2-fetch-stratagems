@@ -1,0 +1,5608 @@
+{
+  "Defensive": [
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png/revision/latest?cb=20240226105841",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "E/MG-101 HMG Emplacement",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "90 seconds (1m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png/revision/latest?cb=20240226105758",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "FX-12 Shield Generator Relay",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "150 seconds (2m 30s)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png/revision/latest?cb=20240226105436",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "A/ARC-3 Tesla Tower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png/revision/latest?cb=20240226105711",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "MD-6 Anti-Personnel Minefield",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png/revision/latest?cb=20240226105731",
+      "input_code": [
+        "down",
+        "left",
+        "left",
+        "down"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png/revision/latest?cb=20240226105619",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "A/MG-43 Machine Gun Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png/revision/latest?cb=20240226105650",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "left"
+      ],
+      "name": "A/G-16 Gatling Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png/revision/latest?cb=20240226105506",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "down"
+      ],
+      "name": "A/M-12 Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png/revision/latest?cb=20240226105858",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "up",
+        "left",
+        "up"
+      ],
+      "name": "A/AC-8 Autocannon Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png/revision/latest?cb=20240226105915",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "A/MLS-4X Rocket Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "180 seconds (3m)",
+      "group": "Defensive",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png/revision/latest?cb=20240226105541",
+      "input_code": [
+        "down",
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "A/M-23 EMS Mortar Sentry",
+      "uses": "Unlimited"
+    }
+  ],
+  "Mission Stratagems": [
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "120s (2m)  (when depleted)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/Reinforceicon.png/revision/latest?cb=20240226105335",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "left",
+        "up"
+      ],
+      "name": "Reinforce",
+      "uses": "5 per Person"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/a9/SOSicon.png/revision/latest?cb=20240226105306",
+      "input_code": [
+        "up",
+        "down",
+        "right",
+        "up"
+      ],
+      "name": "SOS Beacon",
+      "uses": "1"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "12 seconds",
+      "cooldown": "160 seconds (2m 40s)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/37/ResupplyIcon.png/revision/latest?cb=20240226105136",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "Resupply",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "/wiki/NUX-223_Hellbomb",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "down",
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "NUX-223 Hellbomb",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "down",
+        "down",
+        "down",
+        "up",
+        "up"
+      ],
+      "name": "SSSD Delivery",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "9 seconds",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d2/Seismic_probe_icon.png/revision/latest?cb=20240301054005",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "right",
+        "down",
+        "down"
+      ],
+      "name": "Seismic Probe",
+      "uses": "1"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/DeliverSSSDicon.png/revision/latest?cb=20240226105408",
+      "input_code": [
+        "left",
+        "right",
+        "up",
+        "up",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "2 minutes (rearms all your Eagle stratagems)",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/dc/HD2_Eagle_Rearm_Icon.jpg/revision/latest?cb=20240301180613",
+      "input_code": [
+        "up",
+        "up",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "left"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/99/HD2_SEAF_Artillery.jpg/revision/latest?cb=20240321235542",
+      "input_code": [
+        "right",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "SEAF Artillery",
+      "uses": "5"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    },
+    {
+      "activation": "N/A",
+      "cooldown": "N/A",
+      "group": "Mission Stratagems",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1d/HD2_Super_Earth_Flag.jpg/revision/latest?cb=20240322000538",
+      "input_code": [
+        "down",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "Super Earth Flag",
+      "uses": "N/A"
+    }
+  ],
+  "Offensive: Eagle": [
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png/revision/latest?cb=20240226110818",
+      "input_code": [
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "3"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png/revision/latest?cb=20240226105942",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Airstrike",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png/revision/latest?cb=20240226105957",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Eagle Cluster Bomb",
+      "uses": "4"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png/revision/latest?cb=20240226110016",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png/revision/latest?cb=20240226110035",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png/revision/latest?cb=20240226110050",
+      "input_code": [
+        "up",
+        "right",
+        "up",
+        "left"
+      ],
+      "name": "",
+      "uses": "2"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "8 seconds",
+      "group": "Offensive: Eagle",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png/revision/latest?cb=20240226110107",
+      "input_code": [
+        "up",
+        "right",
+        "down",
+        "down",
+        "down"
+      ],
+      "name": "Eagle 500kg Bomb",
+      "uses": "1"
+    }
+  ],
+  "Offensive: Orbital": [
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "80 seconds (1m 20s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png/revision/latest?cb=20240226110706",
+      "input_code": [
+        "right",
+        "down",
+        "left",
+        "up",
+        "up"
+      ],
+      "name": "Orbital Gatling Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "120 seconds (2m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png/revision/latest?cb=20240226110343",
+      "input_code": [
+        "right",
+        "right",
+        "right"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "4 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png/revision/latest?cb=20240226110404",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "left",
+        "right",
+        "down"
+      ],
+      "name": "Orbital 120MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png/revision/latest?cb=20240226110425",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "Orbital 380MM HE Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "240 seconds (4m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png/revision/latest?cb=20240226110538",
+      "input_code": [
+        "right",
+        "down",
+        "right",
+        "down",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Walking Barrage",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "300 seconds (5m)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png/revision/latest?cb=20240226110601",
+      "input_code": [
+        "right",
+        "down",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "Orbital Laser",
+      "uses": "3"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "210 seconds (3m 30s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png/revision/latest?cb=20240226110624",
+      "input_code": [
+        "right",
+        "up",
+        "down",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Railcannon Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png/revision/latest?cb=20240226110325",
+      "input_code": [
+        "right",
+        "right",
+        "up"
+      ],
+      "name": "Orbital Precision Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png/revision/latest?cb=20240226110721",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "right"
+      ],
+      "name": "Orbital Gas Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "75 seconds (1m 15s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png/revision/latest?cb=20240226110739",
+      "input_code": [
+        "right",
+        "right",
+        "left",
+        "down"
+      ],
+      "name": "Orbital EMS Strike",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "1 second",
+      "cooldown": "100 seconds (1m 40s)",
+      "group": "Offensive: Orbital",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png/revision/latest?cb=20240226110759",
+      "input_code": [
+        "right",
+        "right",
+        "down",
+        "up"
+      ],
+      "name": "",
+      "uses": "Unlimited"
+    }
+  ],
+  "Supply: Backpacks": [
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png/revision/latest?cb=20240225211732",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "LIFT-850 Jump Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png/revision/latest?cb=20240225211656",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "down"
+      ],
+      "name": "B-1 Supply Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png/revision/latest?cb=20240225211338",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "right"
+      ],
+      "name": "AX/LAS-5 \"Guard Dog\" Rover",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png/revision/latest?cb=20240225211556",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "SH-20 Ballistic Shield Backpack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png/revision/latest?cb=20240225211446",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "right",
+        "left",
+        "right"
+      ],
+      "name": "SH-32 Shield Generator Pack",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "5 seconds",
+      "cooldown": "300 seconds (5m)",
+      "group": "Supply: Backpacks",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png/revision/latest?cb=20240225211303",
+      "input_code": [
+        "down",
+        "up",
+        "left",
+        "up",
+        "right",
+        "down"
+      ],
+      "name": "AX/AR-23 \"Guard Dog\"",
+      "uses": "Unlimited"
+    }
+  ],
+  "Supply: Other": [
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    },
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    },
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    },
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    },
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    },
+    {
+      "activation": "0 Seconds",
+      "cooldown": "600 seconds (10m)",
+      "group": "Supply: Other",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/62/Patriot_Exo.jpg/revision/latest?cb=20240405191441",
+      "input_code": [
+        "left",
+        "down",
+        "right",
+        "up",
+        "left",
+        "down",
+        "down"
+      ],
+      "name": "EXO-45 Patriot Exosuit",
+      "uses": "2"
+    }
+  ],
+  "Supply: Support Weapons": [
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png/revision/latest?cb=20240225205334",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "right"
+      ],
+      "name": "MG-43 Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png/revision/latest?cb=20240225205808",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "up",
+        "down"
+      ],
+      "name": "APW-1 Anti-Materiel Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png/revision/latest?cb=20240225205851",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "left"
+      ],
+      "name": "M-105 Stalwart",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "2 seconds",
+      "cooldown": "70 seconds (1m 10s)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png/revision/latest?cb=20240225205534",
+      "input_code": [
+        "down",
+        "down",
+        "left",
+        "up",
+        "right"
+      ],
+      "name": "EAT-17 Expendable Anti-tank",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png/revision/latest?cb=20240225205418",
+      "input_code": [
+        "down",
+        "left",
+        "right",
+        "right",
+        "left"
+      ],
+      "name": "GR-8 Recoilless Rifle",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png/revision/latest?cb=20240225205256",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "up"
+      ],
+      "name": "FLAM-40 Flamethrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png/revision/latest?cb=20240225205456",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "up",
+        "right"
+      ],
+      "name": "AC-8 Autocannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "8 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png/revision/latest?cb=20240328223944",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "MG-206 Heavy Machine Gun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png/revision/latest?cb=20240225205727",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RS-422 Railgun",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png/revision/latest?cb=20240225205631",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "down",
+        "down"
+      ],
+      "name": "FAF-14 SPEAR Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png/revision/latest?cb=20240225210608",
+      "input_code": [
+        "down",
+        "left",
+        "up",
+        "left",
+        "down"
+      ],
+      "name": "GL-21 Grenade Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png/revision/latest?cb=20240225210440",
+      "input_code": [
+        "down",
+        "left",
+        "down",
+        "up",
+        "left"
+      ],
+      "name": "LAS-98 Laser Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png/revision/latest?cb=20240225210254",
+      "input_code": [
+        "down",
+        "right",
+        "down",
+        "up",
+        "left",
+        "left"
+      ],
+      "name": "ARC-3 Arc Thrower",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png/revision/latest?cb=20240328223954",
+      "input_code": [
+        "down",
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "LAS-99 Quasar Cannon",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    },
+    {
+      "activation": "3 Seconds",
+      "cooldown": "480 seconds (8m)",
+      "group": "Supply: Support Weapons",
+      "icon_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f8/RL77ARLiconHD2.png/revision/latest?cb=20240427235844",
+      "input_code": [
+        "down",
+        "up",
+        "up",
+        "left",
+        "right"
+      ],
+      "name": "RL-77 Airburst Rocket Launcher",
+      "uses": "Unlimited"
+    }
+  ]
+}
