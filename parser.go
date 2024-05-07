@@ -25,7 +25,7 @@ func NewParser(baseUrl string) *HelldiversParser {
 	return &HelldiversParser{baseUrl: baseUrl}
 }
 
-func (h *HelldiversParser) Parse() (GroupedStratagems, error) {
+func (h *HelldiversParser) Parse() (Stratagems, error) {
 	res, err := h.makeRequest()
 	if err != nil {
 		return nil, fmt.Errorf("failed to get %s: %w", h.baseUrl, err)
@@ -57,7 +57,7 @@ func (h *HelldiversParser) makeRequest() (*http.Response, error) {
 	return client.Do(req)
 }
 
-func (h *HelldiversParser) getStratagems(doc *goquery.Document) GroupedStratagems {
+func (h *HelldiversParser) getStratagems(doc *goquery.Document) Stratagems {
 	var stratagems []*Stratagem
 	doc.Find("table").Each(func(i int, s *goquery.Selection) {
 		sectionName := s.Find("span").First().Text()
@@ -85,7 +85,7 @@ func (h *HelldiversParser) getStratagems(doc *goquery.Document) GroupedStratagem
 			})
 		})
 	})
-	return h.groupStratagemByGroup(stratagems)
+	return stratagems
 }
 
 func (h *HelldiversParser) groupStratagemByGroup(stratagems []*Stratagem) map[string][]*Stratagem {

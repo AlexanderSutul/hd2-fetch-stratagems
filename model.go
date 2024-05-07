@@ -18,5 +18,4 @@ type Stratagem struct {
 	Activation string      `json:"activation"`
 	IconUrl    string      `json:"icon_url"`
 }
-
-type GroupedStratagems map[string][]*Stratagem
+type Stratagems = []*Stratagem
