@@ -59,45 +59,39 @@ func (h *HelldiversParser) makeRequest() (*http.Response, error) {
 
 func (h *HelldiversParser) getStratagems(doc *goquery.Document) Stratagems {
 	var stratagems []*Stratagem
-	doc.Find("table").Each(func(i int, s *goquery.Selection) {
-		sectionName := s.Find("span").First().Text()
-
-		s.Find("tbody tr").Each(func(i int, s *goquery.Selection) {
-			stratagem := &Stratagem{Group: sectionName}
-
-			s.Find("td").Each(func(i int, s *goquery.Selection) {
+	doc.Find("table").Each(func(i int, tableSelect *goquery.Selection) {
+		section := tableSelect.Find("span").First().Text()
+		tableSelect.Find("tbody tr").Each(func(i int, tableRowSelect *goquery.Selection) {
+			// jump over a redundant rows in the table
+			if i < 2 {
+				return
+			}
+			stratagem := &Stratagem{Group: section}
+			tableRowSelect.Find("td").Each(func(i int, tableDataSelect *goquery.Selection) {
 				switch i {
 				case 0: // icon url
-					stratagem.IconUrl = h.getIconUrl(s)
+					stratagem.IconUrl = h.getIconUrl(tableDataSelect)
 				case 1: // name
-					stratagem.Name = h.getName(s)
+					stratagem.Name = h.getName(tableDataSelect)
 				case 2: // inputs
-					stratagem.InputCode = h.getInputs(s)
+					stratagem.InputCode = h.getInputs(tableDataSelect)
 				case 3: // cooldown
-					stratagem.Cooldown = h.getCooldown(s)
+					stratagem.Cooldown = h.getCooldown(tableDataSelect)
 				case 4: // uses
-					stratagem.Uses = h.getUses(s)
+					stratagem.Uses = h.getUses(tableDataSelect)
 				case 5: // activation
-					stratagem.Activation = h.getActivation(s)
+					stratagem.Activation = h.getActivation(tableDataSelect)
 				}
-
-				stratagems = append(stratagems, stratagem)
 			})
+
+			stratagems = append(stratagems, stratagem)
 		})
 	})
 	return stratagems
 }
 
-func (h *HelldiversParser) groupStratagemByGroup(stratagems []*Stratagem) map[string][]*Stratagem {
-	grouped := make(map[string][]*Stratagem)
-	for _, stratagem := range stratagems {
-		grouped[stratagem.Group] = append(grouped[stratagem.Group], stratagem)
-	}
-	return grouped
-}
-
 func (h *HelldiversParser) getIconUrl(s *goquery.Selection) string {
-	val, _ := s.Find("a").Attr("href")
+	val, _ := s.Find("a > img").Attr("data-src")
 	return val
 }
 
