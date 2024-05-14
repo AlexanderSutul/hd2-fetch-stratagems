@@ -21,6 +21,8 @@ type HelldiversParser struct {
 	baseUrl string
 }
 
+var _ Parser = (*HelldiversParser)(nil)
+
 func NewParser(baseUrl string) *HelldiversParser {
 	return &HelldiversParser{baseUrl: baseUrl}
 }
