@@ -18,4 +18,3 @@ type Stratagem struct {
 	Activation string      `json:"activation"`
 	IconUrl    string      `json:"icon_url"`
 }
-type Stratagems = []*Stratagem

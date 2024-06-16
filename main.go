@@ -6,7 +6,7 @@ import (
 )
 
 type Parser interface {
-	Parse() (Stratagems, error)
+	Parse() ([]*Stratagem, error)
 }
 
 const (
@@ -35,6 +35,6 @@ func main() {
 	fmt.Println(Success)
 }
 
-func runParser(p Parser) (Stratagems, error) {
+func runParser(p Parser) ([]*Stratagem, error) {
 	return p.Parse()
 }
