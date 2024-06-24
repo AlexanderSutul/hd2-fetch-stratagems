@@ -17,17 +17,17 @@ const (
 	SectionClass = "mw-headline"
 )
 
-type HelldiversParser struct {
+type HelldiverParser struct {
 	baseUrl string
 }
 
-var _ Parser = (*HelldiversParser)(nil)
+var _ Parser = (*HelldiverParser)(nil)
 
-func NewParser(baseUrl string) *HelldiversParser {
-	return &HelldiversParser{baseUrl: baseUrl}
+func NewParser(baseUrl string) *HelldiverParser {
+	return &HelldiverParser{baseUrl: baseUrl}
 }
 
-func (h *HelldiversParser) Parse() ([]*Stratagem, error) {
+func (h *HelldiverParser) Parse() ([]*Stratagem, error) {
 	res, err := h.makeRequest()
 	if err != nil {
 		return nil, fmt.Errorf("failed to get %s: %w", h.baseUrl, err)
@@ -49,7 +49,7 @@ func (h *HelldiversParser) Parse() ([]*Stratagem, error) {
 	return stratagems, nil
 }
 
-func (h *HelldiversParser) makeRequest() (*http.Response, error) {
+func (h *HelldiverParser) makeRequest() (*http.Response, error) {
 	req, err := http.NewRequest("GET", h.baseUrl, nil)
 	if err != nil {
 		return nil, fmt.Errorf("failed to create request: %w", err)
@@ -59,7 +59,7 @@ func (h *HelldiversParser) makeRequest() (*http.Response, error) {
 	return client.Do(req)
 }
 
-func (h *HelldiversParser) getStratagemsFromDocument(doc *goquery.Document) []*Stratagem {
+func (h *HelldiverParser) getStratagemsFromDocument(doc *goquery.Document) []*Stratagem {
 	var stratagems []*Stratagem
 	doc.Find("table").Each(func(i int, tableSelect *goquery.Selection) {
 		section := tableSelect.Find("span").First().Text()
@@ -92,46 +92,47 @@ func (h *HelldiversParser) getStratagemsFromDocument(doc *goquery.Document) []*S
 	return stratagems
 }
 
-func (h *HelldiversParser) getIconUrl(s *goquery.Selection) string {
+func (h *HelldiverParser) getIconUrl(s *goquery.Selection) string {
 	val, _ := s.Find("a > img").Attr("data-src")
 	return val
 }
 
-func (h *HelldiversParser) getName(s *goquery.Selection) string {
+func (h *HelldiverParser) getName(s *goquery.Selection) string {
 	return s.Find("a").Text()
 }
 
-func (h *HelldiversParser) getInputs(s *goquery.Selection) []InputCode {
+func (h *HelldiverParser) getInputCodeFromSelector(s *goquery.Selection) InputCode {
+	alt, _ := s.Attr("alt")
+	spl := strings.Split(alt, " ")
+	altPostfix := spl[len(spl)-1]
+	l := strings.ToLower(altPostfix)
+	m := map[string]InputCode{
+		"u": UP,
+		"d": DOWN,
+		"l": LEFT,
+		"r": RIGHT,
+	}
+	return m[l]
+}
+
+func (h *HelldiverParser) getInputs(s *goquery.Selection) []InputCode {
 	var inputs []InputCode
 
 	s.Find("img").Each(func(i int, s *goquery.Selection) {
-		alt, _ := s.Attr("alt")
-		spl := strings.Split(alt, " ")
-		altPostfix := spl[len(spl)-1]
-		l := strings.ToLower(altPostfix)
-		switch l {
-		case "u":
-			inputs = append(inputs, UP)
-		case "d":
-			inputs = append(inputs, DOWN)
-		case "l":
-			inputs = append(inputs, LEFT)
-		case "r":
-			inputs = append(inputs, RIGHT)
-		}
+		inputs = append(inputs, h.getInputCodeFromSelector(s))
 	})
 
 	return inputs
 }
 
-func (h *HelldiversParser) getCooldown(s *goquery.Selection) string {
+func (h *HelldiverParser) getCooldown(s *goquery.Selection) string {
 	return strings.TrimRight(s.Text(), "\n")
 }
 
-func (h *HelldiversParser) getUses(s *goquery.Selection) string {
+func (h *HelldiverParser) getUses(s *goquery.Selection) string {
 	return strings.TrimRight(s.Text(), "\n")
 }
 
-func (h *HelldiversParser) getActivation(s *goquery.Selection) string {
+func (h *HelldiverParser) getActivation(s *goquery.Selection) string {
 	return strings.TrimRight(s.Text(), "\n")
 }
